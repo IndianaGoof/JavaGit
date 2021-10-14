@@ -1,4 +1,3 @@
 module einkaufsLaden {
-	requires java.desktop;
-	
+    requires java.desktop;
 }
